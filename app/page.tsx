@@ -156,7 +156,7 @@ export default function Home() {
         </section>
       )}
 
-      <footer className="mt-16 border-t border-zinc-900 pt-6 text-xs text-zinc-600">
+      <footer className="mt-16 border-t border-zinc-900 pt-6 text-xs text-zinc-500">
         Stateless: nothing you paste is stored. Limited to 5 requests per
         minute.
       </footer>
